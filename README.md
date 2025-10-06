@@ -78,6 +78,7 @@ Tic-Tac-Toe-React/
 │  └─ index.js
 ├─ package.json
 └─ README.md
+```
 
 ## 🤝Contributions
 Contributions are welcome!
@@ -85,12 +86,15 @@ Contributions are welcome!
 2. Create a feature branch:
 ```bash
 git checkout -b feature-name
+```
 3. Commit your changes:
 ```bash
 git commit -m "Add new feature"
+```
 4. Push to your branch:
 ```bash
 git push origin feature-name
+```
 
 ## 📜 License
 This project is licensed under the MIT License – free to use and modify.
