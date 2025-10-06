@@ -33,21 +33,26 @@ The application is built using **React.js (Hooks & Functional Components)** and 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/AslamShaik2004/Tic-Tac-Toe-React.git
+```
 
 2. Navigate to the project folder:
 ```bash
 cd Tic-Tac-Toe-React
+```
 
 3. Install dependencies:
 ```bash
 npm install
+```
 
 4. Start the development server:
 ```bash
 npm start
+```
 
 The app will run at:
 http://localhost:3000
+
 
 ## 🔐Usage
 **How to Play:
